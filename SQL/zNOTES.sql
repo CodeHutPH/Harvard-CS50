@@ -71,7 +71,7 @@ CREATE TABLE departments (
 --TRANSACTIONS
 -- Start a transaction
 --After starting a transaction, any changes made to the database will not be permanent until the transaction is committed.
-START TRANSACTION;
+BEGIN TRANSACTION;
 
 -- Perform multiple SQL statements
 

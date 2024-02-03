@@ -2,7 +2,7 @@
 -- name TEXT NOT NULL, email NOT NULL);
 
 -- INSERT INTO emp(id,name,email)
--- VALUES (4,"Stan","harvard4@edu")
+-- VALUES (5,"Lee","harvard5@edu")
 
 SELECT * FROM emp;
 
