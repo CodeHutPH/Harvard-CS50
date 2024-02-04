@@ -1,0 +1,78 @@
+INTERNET
+-The Internet is like a huge, global network that connects all our devices. It lets us share information, watch videos, and do tons of cool stuff online.
+
+ROUTERS
+-Think of routers as traffic cops for the Internet. They decide the best path for data to travel from your computer to a website and back.
+They help different networks talk to each other.
+
+ SERVERS
+ -Servers are like super-powered computers that hold important stuff.
+When you're watching a video or checking your email, you're getting that information from a server somewhere.
+
+PACKETS
+-Imagine you're mailing a big letter. Instead of sending the whole thing at once, you break it into smaller, more manageable pieces.
+In networking, those pieces are like packets of data.
+
+TCP (Transmission Control Protocol)
+-TCP is like a reliable mail delivery service for the Internet. It ensures that data sent from one computer to another arrives intact, in the right order, and without errors.
+
+IP (Internet Protocol)
+-IP is like the postal system that handles the addressing and routing of data packets on the Internet.
+It assigns unique addresses to devices and ensures that packets are directed to the right destination.
+
+IP ADDRESS
+-Every device connected to the Internet has a unique address, like a phone number. It helps computers find each other. For example, your home router might be 192.168.1.1.
+
+PORTS
+Ports are like doors on your computer. Different services use different doors. Port 80 is often used for regular web browsing (HTTP), and 443 is for secure browsing (HTTPS).
+
+DNS (Domain Name System)
+-DNS is like the Internet's phone book. Instead of remembering IP addresses (like 192.168.1.1), we use domain names (like www.example.com) to find websites.
+
+DNS SERVER
+-DNS servers are like librarians in that phone book. When you type a website's name, they look up the corresponding IP address and tell your computer where to go.
+
+DHCP (Dynamic Host Configuration Protocol)
+-DHCP is the friendly helper that gives your devices a temporary address when they join a network. It's like getting a visitor pass for a party.
+
+URL (Uniform Resource Locator)
+-A URL is like an address for a specific webpage or file on the Internet. It's what you type in your browser's address bar to go to a particular site.
+
+DOMAIN
+-Domains are like neighborhoods on the Internet. For example, "example.com" is a domain. It's just a way to organize websites.
+
+SUBDOMAIN
+-Subdomains are like specific houses in a neighborhood. "blog.example.com" is a subdomain of "example.com."
+
+HTTP (Hypertext Transfer Protocol)
+-HTTP is like the basic language websites use to talk to your browser. It's fine for regular stuff, but not so great for secret conversations.
+
+HTTPS (Hypertext Transfer Protocol Secure)
+-HTTPS is like the secret code that encrypts your communication with a website. It's safer, especially when you're doing things like entering passwords or credit card info.
+
+WWW (World Wide Web)
+-The World Wide Web is like the collection of all the websites and pages on the Internet. When you hear "www" in a web address, it's just saying, "Hey, I'm on the Web!"
+
+HOST NAME
+-The host name is like your computer's unique name on the network. It helps identify your device in a sea of other devices.
+
+DOMAIN NAME
+-A domain name is like the name of a website. It's what you type into your browser to visit a specific place on the Internet.
+
+TLD (Top-Level Domain)
+-The TLD is like the last part of a domain name, such as ".com," ".org," or ".net." It gives you a clue about the type or purpose of the website.
+
+--SUMMARY--
+In summary, the internet operates through routers, servers, and the transmission of data packets using the TCP/IP protocol. 
+IP addresses, ports, DNS, DHCP, URLs, and domain names are integral components, facilitating communication and access to resources on the World Wide Web.
+
+
+
+
+
+--GET and POST-- // RETRIEVE and SEND
+
+
+
+
+
