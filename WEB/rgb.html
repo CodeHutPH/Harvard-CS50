@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RGB</title>
+  </head>
+  <body>
+    <button id="red">R</button>
+    <button id="green">G</button>
+    <button id="blue">B</button>
+
+    <script>
+      let body = document.querySelector("body");
+
+      document.querySelector("#red").addEventListener("click", function () {
+        body.style.backgroundColor = "crimson";
+      });
+
+      document.querySelector("#green").addEventListener("click", function () {
+        body.style.backgroundColor = "#228B22";
+      });
+
+      document.querySelector("#blue").addEventListener("click", function () {
+        body.style.backgroundColor = "#4682B4";
+      });
+    </script>
+  </body>
+</html>
