@@ -1,0 +1,14 @@
+Inheritance now implemented!
+
+FLASK BASIC INSTRUCTIONS
+DO THIS IN HTML + CSS + FLASK
+
+1. Pip install flask
+2. Create app.py
+3. Create “template” folder
+4. Under template> layout.html
+5. Add other routed html (index,about,contact)
+6. Run py app.py
+7. Open localhost server given by terminal
+
+This project is on github. Flask and Inheritances
